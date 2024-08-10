@@ -1,4 +1,4 @@
- # EjerciciosBOMyDOM
+ # EjerciciosBOMyDOM 💻💻💻
 
 Practica N°5 BOM y DOM 
 
@@ -6,7 +6,7 @@ Practica N°5 BOM y DOM
 
 ## Cloná
 
-`git clone 
+git clone (https://github.com/EugeSan-hub/tp5-BOMDOM-Ejercicio1.git)
 
-## Autor
+## Autor👩🏽‍💻
 - Eugenia Sansierra
